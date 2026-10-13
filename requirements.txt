@@ -1,0 +1,6 @@
+Flask>=3.0
+yt-dlp
+opencv-python-headless
+pytesseract
+xlwt
+gunicorn
